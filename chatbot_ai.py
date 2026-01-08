@@ -9,7 +9,7 @@ import pyttsx3
 # =========================
 # CONFIG
 # =========================
-GEMINI_API_KEY = "AIzaSyBkQ4crzefYWQlco2XJcbJsMO1EsczQrSQ"
+GEMINI_API_KEY = "ENTER Your API"
 
 genai.configure(api_key=GEMINI_API_KEY)
 
@@ -141,3 +141,4 @@ def main():
 # =========================
 if __name__ == "__main__":
     main()
+
